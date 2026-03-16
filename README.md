@@ -26,35 +26,35 @@ I will spend time on Discord answering questions asynchronously. Whenever possib
 ## Course Outline
 A best guess is provided for how much time should be spent on each assignment. Some might take less time, some might take a bit more depending on how invested you become in the individual assignment. This schedule will be updated / changed on a weekly basis; consider it a rough outline of the course (especially at the start of the course!), not a contract.
 
-### Week 1 8/30: Getting Started / GLSL Live Coding / Visual Music
+### Week 1: Getting Started / GLSL Live Coding / Visual Music
 - *Basic Intro to WGSL / Shader programmming* Assignment:  
     - Complete the [onboarding](./onboarding.md). Due 9/6 (2 hours).
 - *Shader Live Coding and Visual Music*.  Assignments:  
     - Read / experiment with [The Book of Shaders](http://thebookofshaders.com) up through the lesson on [Noise](https://thebookofshaders.com/11/). Due 9/6 (4 hours).
     - Complete the Shader Live Coding Assignment, also due 9/6 (6 hours).  
 
-### Week 2 9/6: Tech - Intro to WebGPU and Video synthesis history
+### Week 2: Tech - Intro to WebGPU and Video synthesis history
 Assignments:  
   - Read / experiment with [The Book of Shaders](http://thebookofshaders.com) up through the lesson on [Fractal Brownian Motion](https://thebookofshaders.com/13/). Due 9/13 (2 hours).
   - Complete the [WebGPU Intro / Video Processing Assignment](A2.video_processing.md). due on 9/13 (8 hours).  
   
-### Week 3 9/13: Automata and Morphogenesis
+### Week 3: Automata and Morphogenesis
 - Cellular Automata  
 - Complete the [Reaction Diffusion assignment](./A3.reaction_diffusion.md), due on 9/20.
 
-### Week 4 9/20: Vertex Shaders and Particle Effects
+### Week 4: Vertex Shaders and Particle Effects
 - Go through the [Your first WebGPU app tutorial](https://codelabs.developers.google.com/your-first-webgpu-app#0), which will teach you to create a WebGPU application from the ground up, with no additional libraries. Give yourself about 4-5 hours for this, it's a long tutorial! Due 9/27
 - Complete the [Particle effects assignment](./A4.particles.md)
    
-### Week 5 9/27: Agent-based Simulations
+### Week 5: Agent-based Simulations
 - [Langton's Ants Assignment](./A5.vants.md) (3--4 hours)
 - Begin working on final project (6 hours)
 
-### Week 6 10/4: Interaction in the Digital Arts + Other ways to tame the GPU: CUDA / Game Engines
+### Week 6: Interaction in the Digital Arts + Other ways to tame the GPU: CUDA / Game Engines
 - OSC / MIDI
 - Using mobile devices for remote control of simulations
 
-### Week 7 10/11: Final Project Presentations &amp; Wrapup  
+### Week 7: Final Project Presentations &amp; Wrapup  
 
 ## Grades
 Your course grade comes from three parts:
