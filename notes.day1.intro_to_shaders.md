@@ -35,7 +35,6 @@ We can provide a bias and a scalar to get this to a range of 0–1:
 ```c
 @fragment 
 fn fs( @builtin(position) pos : vec4f ) -> @location(0) vec4f {
-  // create normalized position coordinates in range 0-1
   let frequency = 4.;
   let bias = .5;
   let gain = .5;
