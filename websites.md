@@ -1,3 +1,4 @@
+- [Lucas Marble](https://github.com/marblelucas/LucasMarbleCS4300/tree/main)
 - [Ethan Carter](https://github.com/chippieboi/4300-Assignements?tab=readme-ov-file)
 - [Thinh Pham](https://github.com/Ternt/CS_4300_Projects)
 - [Example](https://charlie-roberts.com)
