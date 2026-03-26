@@ -1,6 +1,7 @@
 - [Ethan Carter](https://github.com/chippieboi/4300-Assignements?tab=readme-ov-file)
 - [Thinh Pham](https://github.com/Ternt/CS_4300_Projects)
 - [Example](https://charlie-roberts.com)
+- [Tiffany Semexant](https://tiffany-t-s.github.io/ttsemexant.cs-4300.io/)
 - [Jai Steinmetz](https://jj-isshort.github.io/CS4300_site)
 - [Jack Burke](https://github.com/JackBurke164/CS4300-Graphics.git)
 - [Weilun Deng](https://github.com/wdeng123/imgd4300-webgpu-studio)
